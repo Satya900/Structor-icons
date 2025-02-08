@@ -1,0 +1,26 @@
+{
+  "name": "stx-icons",
+  "version": "1.0.0",
+  "description": "A lightweight, customizable icon library designed for modern web development. With STX Icons, easily add scalable icons to your projects using simple class names. Change colors, sizes, and animations without any hassle. Perfect for developers seeking flexibility and performance, STX Icons integrates seamlessly with any framework or standalone project. 🎨✨",
+  "main": "Get started today and take your designs to the next level!",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satya900/structor-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "css",
+    "web-design",
+    "icon-library",
+    "stx"
+  ],
+  "author": "Satyabrata Mohanty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Satya900/structor-icons/issues"
+  },
+  "homepage": "https://github.com/Satya900/structor-icons#readme"
+}
